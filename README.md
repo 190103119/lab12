@@ -1,2 +1,2 @@
-#GitBash
+#MyApp
 This is my lab12
